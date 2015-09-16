@@ -1,0 +1,21 @@
+*, *::before, *::after {
+    box-sizing: border-box;
+}
+
+iframe {
+  border: 1px dashed #CCC;
+}
+
+html.inner {
+  height: 100%;
+}
+
+div {
+  overflow: hidden;
+  height: 410px;
+  width: 330px;
+}
+
+body {
+  margin: 0;
+}
